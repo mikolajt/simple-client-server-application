@@ -1,0 +1,7 @@
+C:\Users\mikol\Dropbox\Infa\Semestr 3\Technologie Sieciowe\Laboratoria\Projekt 6\C#\Server\Server\bin\Debug\Server.exe.config
+C:\Users\mikol\Dropbox\Infa\Semestr 3\Technologie Sieciowe\Laboratoria\Projekt 6\C#\Server\Server\bin\Debug\Server.exe
+C:\Users\mikol\Dropbox\Infa\Semestr 3\Technologie Sieciowe\Laboratoria\Projekt 6\C#\Server\Server\bin\Debug\Server.pdb
+C:\Users\mikol\Dropbox\Infa\Semestr 3\Technologie Sieciowe\Laboratoria\Projekt 6\C#\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\mikol\Dropbox\Infa\Semestr 3\Technologie Sieciowe\Laboratoria\Projekt 6\C#\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Dropbox\Infa\Semestr 3\Technologie Sieciowe\Laboratoria\Projekt 6\C#\Server\Server\obj\Debug\Server.exe
+C:\Users\mikol\Dropbox\Infa\Semestr 3\Technologie Sieciowe\Laboratoria\Projekt 6\C#\Server\Server\obj\Debug\Server.pdb

@@ -1,0 +1,6 @@
+C:\Users\mikol\Dropbox\Infa\Semestr 3\Technologie Sieciowe\Laboratoria\Projekt 6\C#\Client\Client\bin\Debug\Client.exe.config
+C:\Users\mikol\Dropbox\Infa\Semestr 3\Technologie Sieciowe\Laboratoria\Projekt 6\C#\Client\Client\bin\Debug\Client.exe
+C:\Users\mikol\Dropbox\Infa\Semestr 3\Technologie Sieciowe\Laboratoria\Projekt 6\C#\Client\Client\bin\Debug\Client.pdb
+C:\Users\mikol\Dropbox\Infa\Semestr 3\Technologie Sieciowe\Laboratoria\Projekt 6\C#\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Dropbox\Infa\Semestr 3\Technologie Sieciowe\Laboratoria\Projekt 6\C#\Client\Client\obj\Debug\Client.exe
+C:\Users\mikol\Dropbox\Infa\Semestr 3\Technologie Sieciowe\Laboratoria\Projekt 6\C#\Client\Client\obj\Debug\Client.pdb
